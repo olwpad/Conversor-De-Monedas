@@ -98,6 +98,14 @@ public class Service {
         System.out.printf("%-5s  %-25s%n", "NZD", "Dólar neozelandés");
         System.out.printf("%-5s  %-25s%n", "KRW", "Won surcoreano");
         System.out.printf("%-5s  %-25s%n", "NOK", "Corona noruega");
+        System.out.printf("%-5s  %-25s%n", "RUB", "Rublo ruso");
+        System.out.printf("%-5s  %-25s%n", "INR", "Rupia india");
+        System.out.printf("%-5s  %-25s%n", "ZAR", "Rand sudafricano");
+        System.out.printf("%-5s  %-25s%n", "HKD", "Dólar de Hong Kong");
+        System.out.printf("%-5s  %-25s%n", "SGD", "Dólar de Singapur");
+        System.out.printf("%-5s  %-25s%n", "IDR", "Rupia indonesia");
+        System.out.printf("%-5s  %-25s%n", "THB", "Baht tailandés");
+        System.out.printf("%-5s  %-25s%n", "MYR", "Ringgit malayo");
         System.out.println("==========================================");
     }
 
